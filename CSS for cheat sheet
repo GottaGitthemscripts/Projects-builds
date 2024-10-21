@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: blue;
+  text-transform: uppercase;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+  width: 100%;
+  border: solid 3px red;
+  text-align: center;
+  margin: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
